@@ -1,0 +1,15 @@
+C:\Users\ryanw\OneDrive\Desktop\repos\Variables-Exercise\Variables-Exercise\bin\Debug\net8.0\Variables-Exercise.exe
+C:\Users\ryanw\OneDrive\Desktop\repos\Variables-Exercise\Variables-Exercise\bin\Debug\net8.0\Variables-Exercise.deps.json
+C:\Users\ryanw\OneDrive\Desktop\repos\Variables-Exercise\Variables-Exercise\bin\Debug\net8.0\Variables-Exercise.runtimeconfig.json
+C:\Users\ryanw\OneDrive\Desktop\repos\Variables-Exercise\Variables-Exercise\bin\Debug\net8.0\Variables-Exercise.dll
+C:\Users\ryanw\OneDrive\Desktop\repos\Variables-Exercise\Variables-Exercise\bin\Debug\net8.0\Variables-Exercise.pdb
+C:\Users\ryanw\OneDrive\Desktop\repos\Variables-Exercise\Variables-Exercise\obj\Debug\net8.0\Variables-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanw\OneDrive\Desktop\repos\Variables-Exercise\Variables-Exercise\obj\Debug\net8.0\Variables-Exercise.AssemblyInfoInputs.cache
+C:\Users\ryanw\OneDrive\Desktop\repos\Variables-Exercise\Variables-Exercise\obj\Debug\net8.0\Variables-Exercise.AssemblyInfo.cs
+C:\Users\ryanw\OneDrive\Desktop\repos\Variables-Exercise\Variables-Exercise\obj\Debug\net8.0\Variables-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\ryanw\OneDrive\Desktop\repos\Variables-Exercise\Variables-Exercise\obj\Debug\net8.0\Variables-Exercise.sourcelink.json
+C:\Users\ryanw\OneDrive\Desktop\repos\Variables-Exercise\Variables-Exercise\obj\Debug\net8.0\Variables-Exercise.dll
+C:\Users\ryanw\OneDrive\Desktop\repos\Variables-Exercise\Variables-Exercise\obj\Debug\net8.0\refint\Variables-Exercise.dll
+C:\Users\ryanw\OneDrive\Desktop\repos\Variables-Exercise\Variables-Exercise\obj\Debug\net8.0\Variables-Exercise.pdb
+C:\Users\ryanw\OneDrive\Desktop\repos\Variables-Exercise\Variables-Exercise\obj\Debug\net8.0\Variables-Exercise.genruntimeconfig.cache
+C:\Users\ryanw\OneDrive\Desktop\repos\Variables-Exercise\Variables-Exercise\obj\Debug\net8.0\ref\Variables-Exercise.dll
